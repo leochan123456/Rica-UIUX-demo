@@ -1,0 +1,6 @@
+{
+  "name": "Rica+",
+  "description": "利嘉閣經紀專用智能地產文案與隨身安全盾牌系統 Rica+ AI Assistant with compliance guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
